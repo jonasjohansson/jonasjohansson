@@ -1,12 +1,14 @@
 # Jonas Johansson
 
-Creative technologist, designer, and educator based in Stockholm.
+I'm a designer, artist, and educator from Glommen, Halland, based in Stockholm. I work with light and technology: interactive installations, audiovisual performance, stage, and mixed reality. I run the artist residency [Visualia](https://visualia.se) and [Nordic Audiovisual Artists](https://nava.community), collaborate with the light collective [Svartljus](https://svartljus.se), and co-founded [Dome Dreaming](https://www.domedreaming.com), the Nordics' first fulldome film festival. I taught at [Beckmans](https://beckmans.se) (2017–2025) and [Hyper Island](https://www.hyperisland.com) (2014–2022).
 
-[jonasjohansson.se](https://jonasjohansson.se) · [Instagram](https://instagram.com/jnsjohansson)
+Alongside the art, I build tools for creative technology.
+
+[Website](https://jonasjohansson.se) · [Labs](https://labs.jonasjohansson.se) · [Instagram](https://instagram.com/jnsjohansson) · [LinkedIn](https://www.linkedin.com/in/jnsjohansson/) · [CV](https://cv.jonasjohansson.se) · [Email](mailto:j@jonasjohansson.se)
 
 ## Labs
 
-Tools, experiments, and utilities for creative technology.
+Tools, experiments, and resources I'm building. Browse them all at [labs.jonasjohansson.se](https://labs.jonasjohansson.se).
 
 ### Apps
 
