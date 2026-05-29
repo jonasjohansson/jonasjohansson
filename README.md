@@ -15,10 +15,15 @@ Tools, experiments, and utilities for creative technology.
 - **[Mio](https://github.com/jonasjohansson/mio)** — Serial communication app
 - **[Conrad](https://github.com/jonasjohansson/conrad)** — Minimal controller interface for web-enabled devices
 - **[Homie](https://github.com/jonasjohansson/homie)** — Minimal bookmark browser
+- **[Ratbat](https://ratbat.jonasjohansson.se)** — Personal radio for the Apple ecosystem, faceted stations from Last.fm, NTS, and Bandcamp
 
 ### Browser tools
 
+- **[Grappa](https://grappa.jonasjohansson.se)** — Extracts a gradient map from an image's tones and exports a .cube LUT for After Effects, Premiere, or Resolve
+- **[Slicer](https://slicer.jonasjohansson.se)** — Loads 3D models and slices them into layered cross-section contours
+- **[Kagora](https://kagora.jonasjohansson.se)** — LED installation diagram and bill-of-materials generator
 - **[Testbild](https://jonasjohansson.github.io/testbild/)** — Test card generator for multi-surface projection setups
+- **[Testbild 360](https://testbild-360.jonasjohansson.se)** — Test patterns and projection conversion for fulldome, equirectangular, and panoramic imaging
 - **[Unwrapped](https://jonasjohansson.github.io/unwrapped/)** — 3D UV inspector and texture preview tool
 - **[Instagram Prototype](https://jonasjohansson.github.io/instagram-prototype/)** — Mock Instagram profile and post demo tool
 - **[Fulldome Preview](https://preview.domedreaming.com)** — Fulldome cinema preview tool
