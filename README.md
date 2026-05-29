@@ -27,6 +27,9 @@ Tools, experiments, and utilities for creative technology.
 - **[Unwrapped](https://jonasjohansson.github.io/unwrapped/)** — 3D UV inspector and texture preview tool
 - **[Instagram Prototype](https://jonasjohansson.github.io/instagram-prototype/)** — Mock Instagram profile and post demo tool
 - **[Fulldome Preview](https://preview.domedreaming.com)** — Fulldome cinema preview tool
+- **[Every Night Studios](https://everynightstudios.jonasjohansson.se)** — Cap prototyper, grid of mockups with shared text and logo, export to zip
+- **[Flight Finder](https://jonasjohansson.github.io/flight-finder/)** — Opens flight searches across Google Flights, Kiwi, Skyscanner, and Momondo at once
+- **[Godnapp](https://jonasjohansson.github.io/godnapp/)** — Sleep timer for Sveriges Radio, pick a channel, set a timer, drift off
 - **[Helpers](https://github.com/jonasjohansson/helpers)** — Collection of small browser-based utilities
 
 ### Plugins and extensions
